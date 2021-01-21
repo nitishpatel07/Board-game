@@ -1,0 +1,3 @@
+# Dice game
+
+Rules:
